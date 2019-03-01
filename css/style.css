@@ -1,0 +1,124 @@
+
+  body {
+        background: #d1e4ff;
+        width:100%;
+      	margin: 0;
+ }
+
+  .wysiwyg {
+  
+   	 	width:980px;
+    	margin-right: auto;
+    	margin-left: auto;
+    	padding:30px;
+    	background:#fff; 
+    	font-family: 'Roboto', sans-serif; 
+
+ }
+       
+   
+  .wysiwyg h1 {
+    font-size: 42px;
+    margin-top: 42px;
+    margin-bottom: 42px;
+ } 
+  .wysiwyg h2 {
+	  font-size: 36px; 
+	  margin-top: 36px;
+    margin-bottom: 36px;
+ }
+  .wysiwyg  h3 {
+	  font-size: 30px;
+	  margin-top: 30px;
+    margin-bottom: 30px; 
+ }
+
+  .wysiwyg  h4{
+	  font-size: 26px;
+	  margin-top: 26px;
+    margin-bottom: 26px;
+ }
+  .wysiwyg  h5{ 
+	  font-size: 20px;
+	  margin-top: 20px;
+    margin-bottom: 20px; 
+ }
+  .wysiwyg  h6{
+	  font-size: 16px; 
+	  margin-top: 16px;
+    margin-bottom: 16px; 
+ }
+
+ 
+  .wysiwyg  p {
+    font-size: 16px; 
+    margin-top: 16px;
+    margin-bottom: 16px;
+ }
+
+  .wysiwyg  code,
+  .wysiwyg kbd,
+  .wysiwyg samp {
+		  color: #252525;
+    	padding-top: 1px;
+    	padding-bottom: 1px;
+    	padding-right: 5px;
+    	padding-left: 5px;
+
+  }
+
+  .wysiwyg  code{
+	
+		background-color: #f0e6d6;   	
+ }
+
+ .wysiwyg kbd{
+    		
+    	background-color: #eadcea;
+ }
+
+ .wysiwyg samp{
+ 		background-color: #eadcdc;	
+ }    	    	
+
+
+  .wysiwyg  blockquote {
+		  background:#eadcea;
+    	height:56px;
+    	border-left: 4px solid #b496b4; 
+   		padding-left: 32px; 
+   		padding-top: 14px;
+   		margin-right: 0;
+   		margin-left: 0;
+ }
+
+  .wysiwyg pre{
+  		background:#f0e6d6;
+  		padding-top: 11px;
+  		padding-bottom: 11px;
+  		padding-left: 12px;
+      
+ }
+
+.wysiwyg dt {
+    color: #252525; 
+    font-weight: bold;
+    font-style: italic; 
+   }
+
+  .wysiwyg  table { 
+    width: 100%; 
+    border: 1px solid #b496b4; 
+    border-collapse: collapse; 
+ }
+  .wysiwyg  th { 
+    text-align: left; 
+    padding: 5px; 
+    border: 1px solid #b496b4; 
+ }
+  .wysiwyg  td { 
+    padding: 12px; 
+    border: 1px solid #b496b4; 
+ }
+
+ 
